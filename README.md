@@ -29,6 +29,18 @@ A clean, responsive, and beautifully animated **Notes App** built using **Flutte
 
 ---
 
+## 🖼️ Screenshots
+
+<table>
+  <tr>
+    <td align="center"><img src="assets/screenshots/home_screen.jpg" width="200"/><br/>Home Screen</td>
+    <td align="center"><img src="assets/screenshots/add_note.jpg" width="200"/><br/>Add Note</td>
+    <td align="center"><img src="assets/screenshots/colorful_notes.jpg" width="200"/><br/>Color-Coded Notes</td>
+  </tr>
+</table>
+
+---
+
 ## 🎥 Demo
 
 👉 [Click here to watch the demo video](https://github.com/ahsxndev/notes_app/raw/main/assets/demo.mp4)
