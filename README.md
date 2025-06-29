@@ -1,4 +1,3 @@
-```markdown
 # 🗒️ Flutter Notes App
 
 A clean, responsive, and beautifully animated **Notes App** built using **Flutter** and **Sqflite**, designed for a smooth and intuitive note-taking experience. Easily create, edit, delete, and categorize your notes — all stored locally on your device.
@@ -32,10 +31,7 @@ A clean, responsive, and beautifully animated **Notes App** built using **Flutte
 
 ## 🎥 Demo
 
-<video src="assets/demo.mp4" width="100%" controls></video>
-
-
-```
+👉 [Click here to watch the demo video](https://github.com/ahsxndev/notes_app/raw/main/assets/demo.mp4)
 
 ---
 
@@ -52,17 +48,15 @@ A clean, responsive, and beautifully animated **Notes App** built using **Flutte
 
 ## 📁 Folder Structure
 
-```
-
+```plaintext
 lib/
 ├── database/
-│   └── notes\_database.dart          # SQLite CRUD logic
+│   └── notes_database.dart        # SQLite CRUD logic
 ├── screens/
-│   └── notes\_screen.dart            # Main screen UI
+│   └── notes_screen.dart          # Main screen UI
 ├── widgets/
-│   ├── note\_card.dart               # Note display card
-│   └── note\_dialog.dart             # Add/Edit note dialog
-
+│   ├── note_card.dart             # Note display card
+│   └── note_dialog.dart           # Add/Edit note dialog
 ````
 
 ---
@@ -72,9 +66,10 @@ lib/
 To run this project locally:
 
 1. **Clone the Repository**
+
    ```bash
    git clone https://github.com/ahsxndev/notes_app.git
-````
+   ```
 
 2. **Navigate to the project directory**
 
@@ -120,7 +115,3 @@ See the [`LICENSE`](LICENSE) file for details.
 ---
 
 > *Crafted with ❤️ using Flutter*
-
-```
-
----
