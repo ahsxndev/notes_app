@@ -31,7 +31,7 @@ A clean, responsive, and beautifully animated **Notes App** built using **Flutte
 
 ## 🎥 Demo
 
-<video src="assets/demo.mp4" width="100%" controls></video>
+👉 [Click here to watch the demo video](https://github.com/ahsxndev/notes_app/raw/main/assets/demo.mp4)
 
 ---
 
