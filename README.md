@@ -10,6 +10,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
 
 A clean, responsive, and beautifully animated **Notes App** built using **Flutter** and **Sqflite**, designed for a smooth and intuitive note-taking experience. Easily create, edit, delete, and categorize your notes — all stored locally on your device.
+<img width="1920" height="960" alt="Notes App UI (Community)" src="https://github.com/user-attachments/assets/251e44d2-74b7-489c-95d4-5534efbfc44c" />
 
 </div>
 
